@@ -24,4 +24,4 @@ if st.button("Level", type="primary") :
 	st.success(f"Model memprediksi {prediksi} dengan tingkat akurasi {presentase*100:.2f}%")
 	st.balloons()
 st.divider()
-st.caption("Dibuat oleh Adzkia")
+st.caption("Dibuat oleh Alshinta")
